@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tasnuba Islam — Academic Portfolio
 
-## Getting Started
+Personal academic portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+The website highlights my research in clinical and healthcare AI, current work at Duke University, research projects, ongoing papers, academic experience, and contact information.
+
+## About Me
+
+I am a PhD student in **Electrical and Computer Engineering at Duke University**, advised by **Dr. Rishikesan Kamaleswaran**.
+
+As a Graduate Research Assistant in the Kamaleswaran Lab, I work on AI methods for pediatric critical care, including:
+
+- Clinical representation learning
+- Retrieval methods
+- Large language models
+- Retrieval-augmented generation
+- Multimodal clinical AI
+- Trustworthy and interpretable AI
+
+## Portfolio Sections
+
+The website includes:
+
+- Home
+- Research
+- Research Output / Ongoing Papers
+- Projects
+- Experience
+- Contact
+- CV
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Lucide React
+- React Icons
+- Vercel
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/TasnubaTiha33/tasnuba-portfolio.git
+````
+
+Enter the project directory:
+
+```bash
+cd tasnuba-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Project Structure
 
-## Learn More
+```text
+tasnuba-portfolio/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   └── Navbar.tsx
+├── public/
+│   └── images/
+│       └── Tasnuba.jpeg
+├── package.json
+└── README.md
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The website is designed to be deployed using **Vercel**.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+After connecting this repository to Vercel, every push to the `main` branch can automatically trigger a new deployment.
 
-## Deploy on Vercel
+## Links
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* GitHub: [TasnubaTiha33](https://github.com/TasnubaTiha33)
+* LinkedIn: [Tasnuba Islam](https://www.linkedin.com/in/tasnubaislam/)
+* CV: [View CV](https://drive.google.com/file/d/15x0ffXi4vHaAWisBsUPTpSzlvJAuUGXh/view?usp=sharing)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## License
+
+This repository contains the source code for my personal academic portfolio.
+
+Please do not reuse personal information, photographs, research descriptions, or written content without permission.
+
+© 2026 Tasnuba Islam
