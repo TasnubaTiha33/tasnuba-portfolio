@@ -1023,7 +1023,7 @@ export default function Home() {
         </div>
 
         <h3 className="mt-5 font-bold text-slate-900">
-          Email
+          Personal Email
         </h3>
 
         <p className="mt-2 break-all text-sm text-slate-600 transition group-hover:text-[#012169]">
