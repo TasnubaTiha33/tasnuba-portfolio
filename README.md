@@ -98,8 +98,7 @@ After connecting this repository to Vercel, every push to the `main` branch can 
 
 * GitHub: [TasnubaTiha33](https://github.com/TasnubaTiha33)
 * LinkedIn: [Tasnuba Islam](https://www.linkedin.com/in/tasnubaislam/)
-* CV: [View CV](https://drive.google.com/file/d/15x0ffXi4vHaAWisBsUPTpSzlvJAuUGXh/view?usp=sharing)
-
+  
 ## License
 
 This repository contains the source code for my personal academic portfolio.
